@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: #4995f8;
+    padding-top: 100px;
+    margin: 0;
+}
+
+h1 {
+    color: #005eff;
+}
+
+p {
+    color: #080808;
+}
+
+button {
+    background-color: #ff7b00;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #d93706;
+}
+
+#resultados {
+    width: 380px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #72d8fa;
+    border-radius: 8px;
+}
+
+#resultados h2 {
+    margin: 0;
+    color: #005eff;
+}
+
+#resultados p {
+    margin: 8px 0;
+}
